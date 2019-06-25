@@ -24,6 +24,8 @@ Caracteristicile unui numar magic:
  - `O` este egal cu una dintre urmatoarele: `p`, `s`, `d`, `i` sau `m`. (produs, suma, diferenta, impartire, modulo);
  - `1 <= N <= 100000`;
  - `-20 <= I <= 20`;
+ - Exista cel putin un numar par si cel putin un numar impar in tot sirul final;
+ - 
 
 # Exemplu
 ### Intrare:
