@@ -1,4 +1,4 @@
-# Problema: teanculcuprobleme
+# Problema: teanculdeprobleme
 # Cerinta
 
 Se da un sir teanc cu numere, randurile fiind separate prin litere ale alfabetului englez. Pe randul urmator se da un numar `C` care reprezinta numarul de operatii care trebuie facute pe respectivul sir teanc. Pe urmatoarele `C` randuri se afla cate trei elemente, `O`, `N` si `I`. `O` reprezinta tipul operatiei (`p`rodus, `s`uma, `d`iferenta, `i`mpartire si `m`odulo), `N` reprezinta numarul cu care se va face operatia de suma, produs, diferenta, impartire respectiv modulo iar `I` este numarul de randuri carora li se va aplica respectiva operatie. Daca `I` este egal cu `0`, operatia se va aplica tuturor randurilor din teanc, daca este negativ operatia se va aplica primelor `I` randuri de la sfarsitul teancului iar daca `I` este pozitiv operatia se va aplica primelor `I` randuri de la inceputul teancului.
